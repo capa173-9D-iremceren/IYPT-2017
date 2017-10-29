@@ -13,7 +13,7 @@ Bu projede domino taşları bir çizgi boyunca eşit aralıklarla yatay bir yüz
 
 ## Kaynakçalar  
 
-1.YOUNG SCIENTISTS JOURNAL:Investigating The Velocity Of A Dominoes Wave ( https://ysjournal.com/archive/issue-5-1/investigating-the-velocity-of-a-dominoes-wave/ )
+ 1.YOUNG SCIENTISTS JOURNAL:Investigating The Velocity Of A Dominoes Wave ( https://ysjournal.com/archive/issue-5-1/investigating-the-velocity-of-a-dominoes-wave/ )
 
 2. IB Physics:The Domino Effect ( https://youtu.be/EMp0rqKaKLM ) 
 
