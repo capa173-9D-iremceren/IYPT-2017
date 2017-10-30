@@ -9,7 +9,9 @@ Sınıf | Öğrenci İsmi  | Numara
 
 #  (Dominoes)
 ## Özet
-Bu projede domino taşları bir çizgi boyunca eşit aralıklarla yatay bir yüzeye paralel olarak dizildiğinde ve ilk domino taşına belirli  bir kuvvet uygulandığında domino taşları dizinin sonuna kadar devam eden bir düşüş dalgası oluşturur.Bu düşüş dalgasının bitiş hızı ve bitiş süresi birçok farklı etkene bağlıdır. Bu etkenlerden birisi de domino taşları arasındaki mesafedir." Domino taşları arasındaki mesafe arttıkça düşüş dalgasının hızı düşecektir." hipotezine göre düşüş dalgasının ulaşabiceği maksimum hızı hesaplamak deneyin temel amacıdır. Hipoteze dayanarak domino taşlarını farklı mesafelerle yerleştirip düşüş dalgasının ulaştığı hızları analiz etmek ve matematiksel nedenini ispatlamak ve bu deneyler sonucunda ; proje tamamlandığında bir domino dalgasının mesafeye bağlı olarak ulaşabileceği maksimum hız hesaplanmış olacaktır.
+Bu projede domino taşları bir çizgi boyunca eşit aralıklarla yatay bir yüzeye paralel olarak dizildiğinde ve ilk domino taşına belirli  bir kuvvet uygulandığında domino taşları dizinin sonuna kadar devam eden bir düşüş dalgası oluşturur.Bu düşüş dalgasının hızı domino taşlarının uzunluğu, yapıldığı madde gibi birçok farklı etkene bağlıdır.Bu etkenlerden birisi de domino taşları arasındaki mesafedir.    "Domino taşları arasındaki mesafe arttırıldığında bir domino taşının bir sonraki domino taşına düşmesi için geçen süre, aralıkların  uzunluğu azaltıldığında geçen süreden daha fazladır." açıklamasına bağlı olarak "Domino taşları arasındaki mesafe azaltıldıkça düşüş dalgasının hızı artacaktır." Hipotezi baz alınarak düşüş dalgasının ulaşbilceği maksimum hızı hesaplamak projenin esas amacıdır.
+
+Belirtilen hipotez doğrultusunda domino taşlarının  farklı mesafelerle yerleştirip,düşüş dalgasının ulaştığı hızları analiz etmek ve matematiksel nedenini ispatlamak projenin deneyi ve yöntemidir.Bu yöntemin basamkları tamamlandığında proje sona ermiş olacak ve bir düşüş dalgasının ulaşabileceği maksimum hız hesaplanmış olacaktır.
 
 ## Kaynakçalar  
 
